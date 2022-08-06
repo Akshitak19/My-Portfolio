@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    margin: 10px;
+}
+span{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: larger;
+}
